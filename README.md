@@ -1,1 +1,1 @@
-bodedeneal.github.io/coreballhg
+https://bodedeneal.github.io/coreballhg
